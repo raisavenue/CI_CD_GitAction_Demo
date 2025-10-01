@@ -1,4 +1,3 @@
-// import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -10,7 +9,7 @@ function App() {
   };
 
   return (
-    
+
       <main style={{ fontFamily: 'sans-serif', maxWidth: 720, margin: '40px auto', padding: '0 16px' }}>
         <h1>{product.name}</h1>
         <img
